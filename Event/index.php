@@ -52,7 +52,7 @@
                                         <td><?= $data['tanggal_event'] ?></td>
                                         <td>
                                         <button class="btn btn-warning btn-sm" data-bs-toggle="modal" data-bs-target="#exampleModal<?= $data['id_event'] ?>"><i class="fa-solid fa-globe"></i></button>
-                                        <a href="" class="btn btn-info btn-sm"><i class="fa-solid fa-folder-plus"></i></a>
+                                        <a href="form_edit.php?id_event=<?=$data['id_event']?>" class="btn btn-info btn-sm"><i class="fa-solid fa-folder-plus"></i></a>
                                         <button class="btn btn-danger btn-sm" data-bs-toggle="modal" data-bs-target="#modalhapus<?= $data['id_event'] ?>"><i class="fa-solid fa-folder-minus"></i></button>
 
                                         <!--Modal Detail-->
