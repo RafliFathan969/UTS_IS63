@@ -21,6 +21,11 @@
                     <div class="card-body text-center">
                         <h3>Selamat Datang di Aplikasi Event Manager</h3>
                     </div>
+                    <hr>
+                    <div class="card-body text-center">
+                        <h4>Lihat Event Di bawah ini</h4>
+                    </div>
+                    <a href="event/index.php" class="float-end btn btn-primary btn-sm">Event</a>
                 </div>
             </div>
         </div>
