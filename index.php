@@ -8,7 +8,7 @@
 </head>
 <body style="background-color:#232954">
     <?php
-    include_once("../navbar.php");
+    include_once("navbar.php");
     ?>
 
     <div class="container">
@@ -18,7 +18,7 @@
                     <div class="card-header text-center">
                         <b>Aplikasi Event Manager</b>
                     </div>
-                    <div class="card-body">
+                    <div class="card-body text-center">
                         <h3>Selamat Datang di Aplikasi Event Manager</h3>
                     </div>
                 </div>
