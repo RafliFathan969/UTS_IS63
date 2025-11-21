@@ -16,12 +16,10 @@
             <div class="col-8 m-auto">
                 <div class="card shadow p-3 mb-5 bg-body-tertiary rounded">
                     <div class="card-header text-center">
-                        <b>UTS IS-63</b>
+                        <b>Aplikasi Event Manager</b>
                     </div>
                     <div class="card-body">
-                        <h3>Nama  : Rafli</h3>
-                        <h3>NIM   : 202310370311325</h3>
-                        <h3>Kelas : IS-63</h3>
+                        <h3>Selamat Datang di Aplikasi Event Manager</h3>
                     </div>
                 </div>
             </div>
